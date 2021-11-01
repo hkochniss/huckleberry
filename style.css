@@ -35,11 +35,12 @@ h1 {
 }
 
 h2 {
-  font-size: 1.1rem;
+  font-size: 1.2rem;
   letter-spacing: -0.5px;
 }
 
-.title {
+h1.title {
+  font-size: 1.8rem;
   margin: 2rem 0;
 }
 
@@ -51,7 +52,7 @@ header {
   background-color: var(--color-white);
 }
 
-.intro-chunk p {
+.intro-chunk * {
   font-size: 1.2rem;
 }
 
